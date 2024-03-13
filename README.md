@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome
+
+I am Leonardo Pazzeto and I am currently working on improving my Python skills. I also know how to code in VBA
 
 <!--
 **lpazzeto/lpazzeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
